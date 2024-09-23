@@ -1,0 +1,18 @@
+# Godot 4+ specific ignores
+.godot/
+*.csproj.old*
+~*.dll*
+
+# JetBrains ignores
+.idea/
+
+# Visual Studio ignores
+.vs/
+
+# macOS ignores
+.DS_Store
+.ds_store
+
+# Generic ignores
+bin/
+obj/
